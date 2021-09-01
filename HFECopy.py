@@ -33,8 +33,7 @@ else:
 if args.copyfrom:
     cpnum = int(args.copyfrom)
 else:
-    cpnum = input("Specify which floppy image number you would like to copy. Default is " + findzero(endCurrent)
-              + str(endCurrent) + ": ").lstrip()
+    cpnum = False
 
 
 if not cpnum:
