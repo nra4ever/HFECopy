@@ -20,5 +20,5 @@ Specifies the number of new disks desired
 #### -c or copyfrom
 
 ```
-Specifies the source disk to make the copies with. This value defaults to the current highest numbered file in the source directort and cannot be changed in interactive mode
+Specifies the source disk to make the copies with. This value defaults to the current highest numbered file in the source directory and cannot be changed in interactive mode
 ```
